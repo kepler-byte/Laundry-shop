@@ -65,7 +65,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr width="100%">
+        <tr>
             <td></td>
             <td></td>
         </tr>
